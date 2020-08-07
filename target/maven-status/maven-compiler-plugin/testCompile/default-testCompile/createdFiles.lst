@@ -1,0 +1,4 @@
+pt\joao\email\SendEmailTest.class
+pt\joao\utils\DateUtilTest.class
+pt\joao\entity\AccountTest.class
+pt\joao\dto\AccountDTOTest.class
